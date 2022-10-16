@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">unitConvertor</string>
+    <string-array name="lenth_units">
+        <item>Meter</item>
+        <item>Centimeter</item>
+        <item>Kilometer</item>
+        <item>Millimeter</item>
+        <item>Micrometer</item>
+        <item>Nanometer</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Light Year</item>
+    </string-array>
+</resources>
